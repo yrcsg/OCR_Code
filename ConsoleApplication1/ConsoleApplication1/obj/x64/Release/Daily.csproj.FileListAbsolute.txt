@@ -1,0 +1,12 @@
+C:\Users\mac\Desktop\OCR\Project\ConsoleApplication1\ConsoleApplication1\bin\x64\Release\ConsoleApplication1.exe.config
+C:\Users\mac\Desktop\OCR\Project\ConsoleApplication1\ConsoleApplication1\bin\x64\Release\ConsoleApplication1.exe.manifest
+C:\Users\mac\Desktop\OCR\Project\ConsoleApplication1\ConsoleApplication1\bin\x64\Release\ConsoleApplication1.application
+C:\Users\mac\Desktop\OCR\Project\ConsoleApplication1\ConsoleApplication1\bin\x64\Release\ConsoleApplication1.exe
+C:\Users\mac\Desktop\OCR\Project\ConsoleApplication1\ConsoleApplication1\bin\x64\Release\ConsoleApplication1.pdb
+C:\Users\mac\Desktop\OCR\Project\ConsoleApplication1\ConsoleApplication1\bin\x64\Release\Lucene.Net.dll
+C:\Users\mac\Desktop\OCR\Project\ConsoleApplication1\ConsoleApplication1\bin\x64\Release\MySql.Data.dll
+C:\Users\mac\Desktop\OCR\Project\ConsoleApplication1\ConsoleApplication1\obj\x64\Release\Daily.csprojResolveAssemblyReference.cache
+C:\Users\mac\Desktop\OCR\Project\ConsoleApplication1\ConsoleApplication1\obj\x64\Release\ConsoleApplication1.exe.manifest
+C:\Users\mac\Desktop\OCR\Project\ConsoleApplication1\ConsoleApplication1\obj\x64\Release\ConsoleApplication1.application
+C:\Users\mac\Desktop\OCR\Project\ConsoleApplication1\ConsoleApplication1\obj\x64\Release\ConsoleApplication1.exe
+C:\Users\mac\Desktop\OCR\Project\ConsoleApplication1\ConsoleApplication1\obj\x64\Release\ConsoleApplication1.pdb

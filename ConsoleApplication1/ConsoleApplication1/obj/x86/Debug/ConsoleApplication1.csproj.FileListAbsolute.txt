@@ -1,0 +1,9 @@
+E:\OCR\Project\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+E:\OCR\Project\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+E:\OCR\Project\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+E:\OCR\Project\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+E:\OCR\Project\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+E:\OCR\Project\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.manifest
+E:\OCR\Project\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.application
+E:\OCR\Project\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe.manifest
+E:\OCR\Project\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.application

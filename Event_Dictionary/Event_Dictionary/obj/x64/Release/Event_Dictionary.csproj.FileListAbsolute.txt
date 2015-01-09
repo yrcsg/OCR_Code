@@ -1,0 +1,17 @@
+E:\OCR\Project\Event_Dictionary\Event_Dictionary\bin\x64\Release\Event_Dictionary.exe.config
+E:\OCR\Project\Event_Dictionary\Event_Dictionary\bin\x64\Release\Event_Dictionary.exe
+E:\OCR\Project\Event_Dictionary\Event_Dictionary\bin\x64\Release\Event_Dictionary.pdb
+E:\OCR\Project\Event_Dictionary\Event_Dictionary\bin\x64\Release\Lucene.Net.dll
+E:\OCR\Project\Event_Dictionary\Event_Dictionary\bin\x64\Release\MySql.Data.dll
+E:\OCR\Project\Event_Dictionary\Event_Dictionary\obj\x64\Release\Event_Dictionary.exe
+E:\OCR\Project\Event_Dictionary\Event_Dictionary\obj\x64\Release\Event_Dictionary.pdb
+E:\OCR\Project\Event_Dictionary\Event_Dictionary\bin\x64\Release\App.config
+C:\Users\mac\Desktop\OCR\Project\Event_Dictionary\Event_Dictionary\bin\x64\Release\Event_Dictionary.exe.config
+C:\Users\mac\Desktop\OCR\Project\Event_Dictionary\Event_Dictionary\obj\x64\Release\Event_Dictionary.exe
+C:\Users\mac\Desktop\OCR\Project\Event_Dictionary\Event_Dictionary\obj\x64\Release\Event_Dictionary.pdb
+C:\Users\mac\Desktop\OCR\Project\Event_Dictionary\Event_Dictionary\bin\x64\Release\App.config
+C:\Users\mac\Desktop\OCR\Project\Event_Dictionary\Event_Dictionary\bin\x64\Release\Event_Dictionary.exe
+C:\Users\mac\Desktop\OCR\Project\Event_Dictionary\Event_Dictionary\bin\x64\Release\Event_Dictionary.pdb
+C:\Users\mac\Desktop\OCR\Project\Event_Dictionary\Event_Dictionary\bin\x64\Release\Lucene.Net.dll
+C:\Users\mac\Desktop\OCR\Project\Event_Dictionary\Event_Dictionary\bin\x64\Release\MySql.Data.dll
+C:\Users\mac\Desktop\OCR\Project\Event_Dictionary\Event_Dictionary\obj\x64\Release\Event_Dictionary.csprojResolveAssemblyReference.cache

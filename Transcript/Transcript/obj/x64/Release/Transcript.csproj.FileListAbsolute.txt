@@ -1,0 +1,8 @@
+C:\Users\mac\Desktop\OCR\Project\Transcript\Transcript\bin\x64\Release\Transcript.exe.config
+C:\Users\mac\Desktop\OCR\Project\Transcript\Transcript\bin\x64\Release\Transcript.exe
+C:\Users\mac\Desktop\OCR\Project\Transcript\Transcript\bin\x64\Release\Transcript.pdb
+C:\Users\mac\Desktop\OCR\Project\Transcript\Transcript\bin\x64\Release\Lucene.Net.dll
+C:\Users\mac\Desktop\OCR\Project\Transcript\Transcript\bin\x64\Release\MySql.Data.dll
+C:\Users\mac\Desktop\OCR\Project\Transcript\Transcript\obj\x64\Release\Transcript.csprojResolveAssemblyReference.cache
+C:\Users\mac\Desktop\OCR\Project\Transcript\Transcript\obj\x64\Release\Transcript.exe
+C:\Users\mac\Desktop\OCR\Project\Transcript\Transcript\obj\x64\Release\Transcript.pdb

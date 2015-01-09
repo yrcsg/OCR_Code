@@ -1,0 +1,9 @@
+E:\OCR\Project\Transcript\Transcript\bin\Debug\Transcript.exe.config
+E:\OCR\Project\Transcript\Transcript\bin\Debug\Transcript.exe
+E:\OCR\Project\Transcript\Transcript\bin\Debug\Transcript.pdb
+E:\OCR\Project\Transcript\Transcript\obj\x86\Debug\Transcript.csprojResolveAssemblyReference.cache
+E:\OCR\Project\Transcript\Transcript\obj\x86\Debug\Transcript.exe
+E:\OCR\Project\Transcript\Transcript\obj\x86\Debug\Transcript.pdb
+C:\Users\mac\Desktop\OCR\Project\Transcript\Transcript\bin\Debug\Transcript.exe.config
+C:\Users\mac\Desktop\OCR\Project\Transcript\Transcript\obj\x86\Debug\Transcript.exe
+C:\Users\mac\Desktop\OCR\Project\Transcript\Transcript\obj\x86\Debug\Transcript.pdb

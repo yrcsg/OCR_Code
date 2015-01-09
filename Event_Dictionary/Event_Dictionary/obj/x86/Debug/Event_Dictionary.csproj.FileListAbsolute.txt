@@ -1,0 +1,6 @@
+E:\OCR\Project\Event_Dictionary\Event_Dictionary\bin\Debug\Event_Dictionary.exe
+E:\OCR\Project\Event_Dictionary\Event_Dictionary\bin\Debug\Event_Dictionary.pdb
+E:\OCR\Project\Event_Dictionary\Event_Dictionary\obj\x86\Debug\Event_Dictionary.csprojResolveAssemblyReference.cache
+E:\OCR\Project\Event_Dictionary\Event_Dictionary\obj\x86\Debug\Event_Dictionary.exe
+E:\OCR\Project\Event_Dictionary\Event_Dictionary\obj\x86\Debug\Event_Dictionary.pdb
+E:\OCR\Project\Event_Dictionary\Event_Dictionary\bin\Debug\Event_Dictionary.exe.config
