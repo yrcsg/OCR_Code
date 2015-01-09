@@ -1,0 +1,7 @@
+Results of correction:
+Number of invalid sentences: 209
+Number of sentences with no error: 619
+Number of errors: 160
+Number of errors that cannot be corrected: 13
+Number of errors can be corrected: 129
+Number of total sentences: 957
